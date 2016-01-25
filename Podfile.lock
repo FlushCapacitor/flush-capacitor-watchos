@@ -1,0 +1,13 @@
+PODS:
+  - Reachability (3.2)
+  - SocketRocket (0.4.2)
+
+DEPENDENCIES:
+  - Reachability
+  - SocketRocket
+
+SPEC CHECKSUMS:
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SocketRocket: ffe08119b00ef982f6c37052a4705a057c8494ad
+
+COCOAPODS: 0.39.0
